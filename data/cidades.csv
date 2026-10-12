@@ -1,0 +1,154 @@
+cidade,pais,regiao,city_beauty_score,traveler_rating_score,tourist_volume_millions,unesco_sites,museums_score,architecture_score,cultural_events,gastronomy_score,nightlife_vibe,nature_green_score,hospitality_score,safety_index,transit_connectivity,cleanliness_eco,hub_access,hotel_cost_eur,food_cost_eur,attractions_cost_eur,transit_cost_eur,custo_diario_total_eur
+Paris,França,Europa Ocidental,10,9.5,19.4,9,10,10,10,9,9,9,6,9,8,6,10,99,34,17,7,157
+Nice,França,Europa Ocidental,8,8.8,5.2,9,7,8,6,9,10,6,9,7,7,9,6,85,29,15,6,135
+Lyon,França,Europa Ocidental,8,8.5,3.1,8,6,8,5,8,8,9,9,9,6,8,5,138,48,24,11,221
+Marseille,França,Europa Ocidental,7,8.0,2.8,6,6,7,5,10,7,6,8,7,8,6,5,114,39,20,9,182
+Bordeaux,França,Europa Ocidental,8,8.7,2.5,9,6,8,5,8,8,8,7,7,9,8,5,78,27,14,6,125
+Strasbourg,França,Europa Ocidental,8,8.6,2.1,9,6,8,5,7,9,8,6,5,8,6,5,113,39,20,9,181
+Toulouse,França,Europa Ocidental,7,8.2,1.8,7,5,7,4,8,8,6,7,9,7,8,4,136,47,24,10,217
+Lille,França,Europa Ocidental,7,8.1,1.5,8,5,7,4,10,7,9,8,7,7,5,4,90,31,16,7,144
+Nantes,França,Europa Ocidental,7,8.2,1.2,7,5,7,4,8,8,7,7,8,7,9,4,91,31,16,7,145
+Montpellier,França,Europa Ocidental,7,8.1,1.1,7,5,7,4,10,8,7,7,8,7,8,4,138,48,24,11,221
+Roma,Itália,Europa do Sul,10,9.4,10.3,9,10,10,9,10,7,7,8,9,9,6,9,72,25,12,5,114
+Florença,Itália,Europa do Sul,10,9.6,5.2,9,7,10,6,7,7,8,6,5,6,5,6,127,44,22,10,203
+Veneza,Itália,Europa do Sul,10,9.5,5.5,10,7,10,6,9,9,6,9,7,8,5,6,116,40,20,9,185
+Milão,Itália,Europa do Sul,8,8.9,6.8,8,8,8,7,9,8,6,9,5,9,8,7,106,37,19,8,170
+Nápoles,Itália,Europa do Sul,8,8.4,3.2,9,6,8,5,9,8,9,6,7,9,7,5,89,31,16,7,143
+Turim,Itália,Europa do Sul,8,8.5,2.1,9,6,8,5,7,9,7,8,5,6,6,5,103,36,18,8,165
+Bolonha,Itália,Europa do Sul,8,8.7,2.0,8,6,8,5,9,9,6,8,6,7,8,5,84,29,15,6,134
+Verona,Itália,Europa do Sul,9,8.9,2.8,10,6,9,5,10,9,6,9,9,9,8,5,76,26,13,6,121
+Palermo,Itália,Europa do Sul,7,8.2,1.8,8,5,7,4,9,7,8,8,9,9,9,4,124,43,22,9,198
+Gênova,Itália,Europa do Sul,7,8.1,1.5,8,5,7,4,9,8,9,7,6,6,5,4,74,25,13,5,117
+Barcelona,Espanha,Europa do Sul,10,9.3,11.2,10,10,10,9,8,9,9,7,8,6,5,9,65,22,11,5,103
+Madrid,Espanha,Europa do Sul,9,9.0,7.6,10,8,9,7,8,7,9,6,5,8,7,7,74,25,13,5,117
+Sevilla,Espanha,Europa do Sul,9,9.1,3.5,8,6,9,5,7,9,7,9,7,7,5,5,82,28,14,6,130
+Málaga,Espanha,Europa do Sul,8,8.7,3.2,8,6,8,5,7,8,9,9,6,8,5,5,82,28,14,6,130
+Valência,Espanha,Europa do Sul,8,8.8,2.8,7,6,8,5,9,7,7,7,8,7,9,5,68,23,12,5,108
+Granada,Espanha,Europa do Sul,9,9.2,2.3,8,6,9,5,9,8,7,6,8,7,8,5,78,27,14,6,125
+Bilbao,Espanha,Europa do Sul,8,8.6,1.9,9,5,8,4,7,9,7,9,9,9,6,4,64,22,11,5,102
+San Sebastián,Espanha,Europa do Sul,9,9.1,1.8,10,5,9,4,9,10,9,6,5,9,7,4,94,32,16,7,149
+Palma de Maiorca,Espanha,Europa do Sul,8,8.5,4.8,7,7,8,6,9,10,9,8,8,8,6,6,70,24,12,5,111
+Alicante,Espanha,Europa do Sul,7,8.2,2.1,8,6,7,5,10,10,8,9,5,6,6,5,88,30,15,7,140
+Lisboa,Portugal,Europa do Sul,9,9.2,5.4,10,7,9,6,7,7,7,8,6,8,8,6,87,30,15,6,138
+Porto,Portugal,Europa do Sul,9,9.1,3.2,8,6,9,5,7,8,6,9,8,6,9,5,57,19,10,4,90
+Faro,Portugal,Europa do Sul,7,8.1,2.1,8,6,7,5,7,7,8,8,7,9,5,5,89,31,16,7,143
+Coimbra,Portugal,Europa do Sul,8,8.4,1.1,9,5,8,4,7,8,9,9,7,9,5,4,78,27,14,6,125
+Braga,Portugal,Europa do Sul,8,8.3,1.0,7,5,8,4,8,8,7,7,7,9,9,4,79,27,14,6,126
+Sintra,Portugal,Europa do Sul,9,9.3,2.5,8,6,9,5,7,8,6,9,8,9,7,5,60,21,10,4,95
+Évora,Portugal,Europa do Sul,8,8.5,0.9,7,5,8,4,9,9,7,8,9,8,7,4,79,27,14,6,126
+Funchal,Portugal,Europa do Sul,8,8.7,1.5,7,5,8,4,8,7,9,8,5,6,8,4,69,24,12,5,110
+Ponta Delgada,Portugal,Europa do Sul,8,8.6,0.8,9,5,8,4,9,7,9,6,8,9,9,4,82,28,14,6,130
+Aveiro,Portugal,Europa do Sul,7,8.2,0.9,7,5,7,4,9,7,6,9,9,6,9,4,62,21,11,4,98
+Londres,Reino Unido,Europa Ocidental,9,9.2,19.8,8,10,9,10,10,9,6,6,5,9,7,10,122,42,21,9,194
+Edimburgo,Reino Unido,Europa Ocidental,9,9.1,3.8,8,6,9,5,8,9,7,7,7,9,6,5,96,33,17,7,153
+Manchester,Reino Unido,Europa Ocidental,7,8.3,2.7,7,6,7,5,9,8,8,8,6,7,6,5,124,43,22,9,198
+Liverpool,Reino Unido,Europa Ocidental,7,8.4,2.1,6,6,7,5,7,9,7,9,9,7,6,5,133,46,23,10,212
+Oxford,Reino Unido,Europa Ocidental,8,8.8,2.0,7,6,8,5,10,7,9,7,5,9,9,5,137,47,24,10,218
+Cambridge,Reino Unido,Europa Ocidental,8,8.7,1.8,8,5,8,4,10,8,9,8,8,7,6,4,97,33,17,7,154
+Belfast,Reino Unido,Europa Ocidental,7,8.2,1.5,8,5,7,4,8,9,6,7,9,7,6,4,113,39,20,9,181
+Glasgow,Reino Unido,Europa Ocidental,7,8.3,1.8,6,5,7,4,10,8,7,8,7,9,9,4,140,49,25,11,225
+Bristol,Reino Unido,Europa Ocidental,7,8.2,1.4,6,5,7,4,10,10,9,6,8,7,9,4,118,41,21,9,189
+Bath,Reino Unido,Europa Ocidental,8,8.8,1.6,8,5,8,4,9,9,8,9,8,9,9,4,97,33,17,7,154
+Viena,Áustria,Europa Central,9,9.3,6.6,9,8,9,7,9,10,6,9,7,9,6,7,133,46,23,10,212
+Salzburgo,Áustria,Europa Central,9,9.1,2.8,8,6,9,5,9,8,7,8,5,9,9,5,84,29,15,6,134
+Innsbruck,Áustria,Europa Central,8,8.8,1.9,8,5,8,4,8,10,7,9,5,9,9,4,83,29,14,6,132
+Graz,Áustria,Europa Central,7,8.3,1.2,6,5,7,4,10,10,6,7,9,8,7,4,95,33,17,7,152
+Linz,Áustria,Europa Central,7,8.1,0.9,8,5,7,4,8,9,6,6,8,6,5,4,93,32,16,7,148
+Klagenfurt,Áustria,Europa Central,7,8.0,0.7,7,5,7,4,8,9,7,9,9,8,8,4,97,33,17,7,154
+Praga,República Tcheca,Europa Central,10,9.4,6.8,10,8,10,7,7,9,7,7,9,9,6,7,51,17,9,4,81
+Český Krumlov,República Tcheca,Europa Central,9,9.1,1.2,9,5,9,4,8,9,7,9,5,9,9,4,55,19,9,4,87
+Brno,República Tcheca,Europa Central,7,8.1,1.0,8,5,7,4,8,7,9,9,7,9,8,4,72,25,12,5,114
+Karlovy Vary,República Tcheca,Europa Central,8,8.5,0.9,7,5,8,4,7,7,8,8,9,9,7,4,60,21,10,4,95
+Pilsen,República Tcheca,Europa Central,7,8.0,0.7,7,5,7,4,9,10,6,6,8,8,6,4,77,26,13,6,122
+Ostrava,República Tcheca,Europa Central,6,7.5,0.5,6,5,6,4,9,9,6,7,9,7,6,4,46,16,8,3,73
+Budapeste,Hungria,Europa Central,9,9.1,5.0,9,7,9,6,8,6,8,9,6,6,6,6,40,14,7,3,64
+Eger,Hungria,Europa Central,7,8.2,0.6,6,5,7,4,9,9,6,6,9,6,8,4,65,22,11,5,103
+Pécs,Hungria,Europa Central,7,8.1,0.5,6,5,7,4,9,9,8,6,7,9,8,4,47,16,8,3,74
+Debrecen,Hungria,Europa Central,6,7.8,0.5,7,5,6,4,9,9,8,7,9,9,5,4,54,18,9,4,85
+Szeged,Hungria,Europa Central,7,8.0,0.5,8,5,7,4,6,8,6,7,5,6,8,4,67,23,12,5,107
+Sopron,Hungria,Europa Central,7,8.1,0.4,7,5,7,4,6,8,8,6,8,9,9,4,73,25,13,5,116
+Győr,Hungria,Europa Central,6,7.9,0.4,5,5,6,4,8,9,7,8,8,8,6,4,76,26,13,6,121
+Berlim,Alemanha,Europa Central,8,8.9,6.1,7,8,8,7,8,10,9,6,8,8,9,7,109,38,19,8,174
+Munique,Alemanha,Europa Central,8,8.8,4.2,9,7,8,6,8,10,6,6,6,7,6,6,116,40,20,9,185
+Frankfurt,Alemanha,Europa Central,7,8.2,2.8,8,6,7,5,8,10,8,7,8,6,6,5,99,34,17,7,157
+Hamburgo,Alemanha,Europa Central,8,8.5,2.5,7,6,8,5,8,9,8,7,9,9,6,5,121,42,21,9,193
+Colônia,Alemanha,Europa Central,7,8.3,2.2,8,6,7,5,9,9,6,6,9,7,7,5,96,33,17,7,153
+Dresden,Alemanha,Europa Central,8,8.7,1.8,7,5,8,4,8,9,9,6,5,6,8,4,106,37,19,8,170
+Nuremberga,Alemanha,Europa Central,8,8.5,1.5,9,5,8,4,10,8,9,7,7,7,6,4,94,32,16,7,149
+Leipzig,Alemanha,Europa Central,7,8.2,1.3,7,5,7,4,10,8,6,7,8,7,6,4,93,32,16,7,148
+Stuttgart,Alemanha,Europa Central,7,8.1,1.4,6,5,7,4,10,8,8,6,7,6,8,4,115,40,20,9,184
+Düsseldorf,Alemanha,Europa Central,7,8.2,1.6,8,5,7,4,8,8,9,6,9,7,6,4,127,44,22,10,203
+Amesterdão,Países Baixos,Europa Ocidental,9,9.1,8.8,8,9,9,8,8,10,6,9,9,8,8,8,95,33,17,7,152
+Roterdão,Países Baixos,Europa Ocidental,7,8.3,2.1,8,6,7,5,10,8,7,8,5,6,5,5,99,34,17,7,157
+Haia,Países Baixos,Europa Ocidental,8,8.4,1.8,8,5,8,4,10,10,6,8,8,7,8,4,129,45,23,10,207
+Utrecht,Países Baixos,Europa Ocidental,8,8.6,1.5,7,5,8,4,9,9,9,7,8,7,8,4,100,35,18,8,161
+Maastricht,Países Baixos,Europa Ocidental,8,8.5,1.2,7,5,8,4,10,9,8,6,5,6,9,4,99,34,17,7,157
+Eindhoven,Países Baixos,Europa Ocidental,6,7.8,1.0,5,5,6,4,8,9,8,6,6,8,9,4,139,48,25,11,223
+Atenas,Grécia,Europa do Sul,8,8.8,6.3,8,8,8,7,8,10,7,7,7,6,9,7,97,33,17,7,154
+Santorini,Grécia,Europa do Sul,10,9.4,2.2,9,6,10,5,8,7,7,9,5,8,9,5,56,19,10,4,89
+Míconos,Grécia,Europa do Sul,9,9.0,1.8,8,5,9,4,8,9,8,6,9,6,6,4,107,37,19,8,171
+Tessalônica,Grécia,Europa do Sul,7,8.2,1.5,8,5,7,4,7,7,9,8,8,6,9,4,57,19,10,4,90
+Cefalônia,Grécia,Europa do Sul,8,8.7,0.9,8,5,8,4,9,7,8,6,9,6,6,4,124,43,22,9,198
+Rodes,Grécia,Europa do Sul,8,8.5,1.8,7,5,8,4,7,8,6,7,5,8,9,4,114,39,20,9,182
+Corfu,Grécia,Europa do Sul,8,8.6,1.4,8,5,8,4,7,7,9,9,6,9,6,4,97,33,17,7,154
+Dubrovnik,Croácia,Europa do Sul,9,9.2,1.5,9,5,9,4,8,9,8,7,8,6,8,4,87,30,15,6,138
+Split,Croácia,Europa do Sul,8,8.7,1.2,8,5,8,4,9,7,6,9,9,6,6,4,90,31,16,7,144
+Zagreb,Croácia,Europa do Sul,7,8.2,1.1,8,5,7,4,8,8,7,7,6,7,7,4,104,36,18,8,166
+Zadar,Croácia,Europa do Sul,8,8.5,0.8,8,5,8,4,7,8,6,9,8,7,6,4,65,22,11,5,103
+Rijeka,Croácia,Europa do Sul,6,7.8,0.5,5,5,6,4,7,8,9,6,6,6,8,4,107,37,19,8,171
+Pula,Croácia,Europa do Sul,7,8.2,0.7,6,5,7,4,8,8,6,7,9,7,7,4,63,22,11,5,101
+Hvar,Croácia,Europa do Sul,9,9.1,0.9,10,5,9,4,9,9,6,8,7,7,8,4,91,31,16,7,145
+Copenhague,Dinamarca,Nórdicos,8,8.7,3.1,7,6,8,5,10,10,8,6,6,6,6,5,120,42,21,9,192
+Aarhus,Dinamarca,Nórdicos,7,8.2,0.9,6,5,7,4,8,9,9,7,9,7,9,4,122,42,21,9,194
+Odense,Dinamarca,Nórdicos,7,8.1,0.6,6,5,7,4,8,9,7,7,5,7,6,4,140,49,25,11,225
+Aalborg,Dinamarca,Nórdicos,6,7.9,0.5,5,5,6,4,9,8,8,6,7,8,9,4,147,51,26,11,235
+Estocolmo,Suécia,Nórdicos,8,8.6,2.5,7,6,8,5,8,10,6,9,6,9,6,5,95,33,17,7,152
+Gotemburgo,Suécia,Nórdicos,7,8.2,1.1,7,5,7,4,10,10,8,8,7,8,8,4,139,48,25,11,223
+Malmö,Suécia,Nórdicos,7,8.0,0.8,7,5,7,4,9,10,8,8,5,8,9,4,101,35,18,8,162
+Uppsala,Suécia,Nórdicos,7,8.1,0.5,8,5,7,4,8,8,8,7,6,7,8,4,105,36,18,8,167
+Oslo,Noruega,Nórdicos,7,8.2,1.4,6,5,7,4,8,9,8,6,9,7,8,4,130,45,23,10,208
+Bergen,Noruega,Nórdicos,8,8.7,1.1,8,5,8,4,10,8,9,8,6,6,9,4,149,52,26,11,238
+Tromsø,Noruega,Nórdicos,8,8.8,0.6,8,5,8,4,9,10,9,8,9,7,9,4,138,48,24,11,221
+Trondheim,Noruega,Nórdicos,7,8.1,0.5,6,5,7,4,9,8,7,7,8,7,7,4,175,61,31,14,281
+Stavanger,Noruega,Nórdicos,7,8.2,0.6,7,5,7,4,10,10,6,8,7,8,9,4,120,42,21,9,192
+Helsínquia,Finlândia,Nórdicos,7,8.1,1.2,8,5,7,4,9,9,9,9,7,9,5,4,148,51,26,11,236
+Rovaniemi,Finlândia,Nórdicos,8,8.6,0.6,8,5,8,4,10,9,6,7,7,9,6,4,119,41,21,9,190
+Tampere,Finlândia,Nórdicos,6,7.8,0.4,5,5,6,4,9,9,7,9,7,9,5,4,106,37,19,8,170
+Turku,Finlândia,Nórdicos,7,8.0,0.4,8,5,7,4,8,9,7,9,9,7,7,4,134,46,24,10,214
+Reykjavik,Islândia,Nórdicos,8,8.4,0.7,7,5,8,4,10,10,6,7,6,9,6,4,185,64,33,14,296
+Akureyri,Islândia,Nórdicos,7,8.1,0.2,7,5,7,4,9,8,9,7,8,6,9,4,162,56,29,12,259
+Vík,Islândia,Nórdicos,8,8.5,0.3,7,5,8,4,10,10,9,7,7,7,5,4,130,45,23,10,208
+Varsóvia,Polônia,Europa Central,8,8.5,2.8,8,6,8,5,8,7,9,8,5,7,8,5,69,24,12,5,110
+Cracóvia,Polônia,Europa Central,9,9.1,3.2,8,6,9,5,8,7,9,8,5,6,8,5,52,18,9,4,83
+Wrocław,Polônia,Europa Central,8,8.7,1.5,7,5,8,4,7,7,8,8,6,7,8,4,44,15,7,3,69
+Gdańsk,Polônia,Europa Central,8,8.6,1.4,8,5,8,4,7,8,9,9,7,6,5,4,49,17,8,3,77
+Poznań,Polônia,Europa Central,7,8.1,0.9,8,5,7,4,7,7,6,6,6,7,9,4,65,22,11,5,103
+Bruxelas,Bélgica,Europa Ocidental,8,8.4,3.2,9,6,8,5,9,9,7,7,7,8,7,5,125,43,22,10,200
+Bruges,Bélgica,Europa Ocidental,9,9.1,2.1,10,6,9,5,9,7,6,9,7,9,9,5,96,33,17,7,153
+Gent,Bélgica,Europa Ocidental,8,8.7,1.2,7,5,8,4,7,7,8,8,5,7,8,4,87,30,15,6,138
+Antuérpia,Bélgica,Europa Ocidental,7,8.3,1.5,7,5,7,4,7,9,7,6,9,8,8,4,108,37,19,8,172
+Dublin,Irlanda,Europa Ocidental,8,8.5,5.2,9,7,8,6,7,7,6,8,8,9,9,6,112,39,20,8,179
+Galway,Irlanda,Europa Ocidental,8,8.8,1.2,9,5,8,4,9,9,9,9,6,8,7,4,128,44,23,10,205
+Cork,Irlanda,Europa Ocidental,7,8.2,0.9,8,5,7,4,8,8,9,7,6,7,7,4,105,36,18,8,167
+Zurique,Suíça,Europa Central,8,8.6,2.4,7,6,8,5,9,9,6,6,8,8,8,5,155,54,27,12,248
+Genebra,Suíça,Europa Central,7,8.2,2.1,6,6,7,5,8,10,7,6,8,8,6,5,150,52,27,12,241
+Lucerna,Suíça,Europa Central,9,9.0,1.5,10,5,9,4,8,9,9,6,7,8,5,4,146,51,26,11,234
+Berna,Suíça,Europa Central,8,8.5,0.9,7,5,8,4,9,9,9,7,5,6,7,4,151,52,27,12,242
+Interlaken,Suíça,Europa Central,9,9.1,1.1,8,5,9,4,10,8,6,6,6,9,5,4,199,69,35,15,318
+Bucareste,Europa do Leste / Outros,Bálcãs / Leste,7,8.0,1.2,6,5,7,4,7,7,9,6,6,8,6,4,30,10,5,3,48
+Sofia,Europa do Leste / Outros,Bálcãs / Leste,7,7.9,1.1,8,5,7,4,6,7,6,9,7,8,8,4,46,16,8,3,73
+Belgrado,Europa do Leste / Outros,Bálcãs / Leste,7,8.1,1.0,7,5,7,4,8,5,8,9,9,9,5,4,61,21,10,4,96
+Ljubljana,Europa do Leste / Outros,Bálcãs / Leste,8,8.6,0.9,9,5,8,4,7,6,7,9,6,6,5,4,42,14,7,3,66
+Bratislava,Europa do Leste / Outros,Bálcãs / Leste,7,8.0,1.0,6,5,7,4,5,8,7,7,8,8,9,4,36,12,6,3,57
+Tallinn,Europa do Leste / Outros,Bálcãs / Leste,8,8.7,1.5,9,5,8,4,5,8,6,7,7,8,7,4,36,12,6,3,57
+Riga,Europa do Leste / Outros,Bálcãs / Leste,7,8.2,1.1,7,5,7,4,5,5,6,6,7,7,5,4,42,14,7,3,66
+Vilnius,Europa do Leste / Outros,Bálcãs / Leste,7,8.3,1.0,8,5,7,4,6,6,7,9,5,7,7,4,57,19,10,4,90
+Valletta,Europa do Leste / Outros,Bálcãs / Leste,8,8.6,1.8,7,5,8,4,8,5,8,8,7,9,6,4,35,12,6,3,56
+Tirana,Europa do Leste / Outros,Bálcãs / Leste,6,7.5,0.6,6,5,6,4,6,8,6,8,8,9,6,4,39,13,7,3,62
+Sarajevo,Europa do Leste / Outros,Bálcãs / Leste,7,8.2,0.7,6,5,7,4,5,7,8,9,7,8,9,4,60,21,10,4,95
+Kotor,Europa do Leste / Outros,Bálcãs / Leste,8,8.8,0.6,7,5,8,4,7,5,8,8,5,9,6,4,50,17,9,4,80
+Skopje,Europa do Leste / Outros,Bálcãs / Leste,6,7.4,0.4,6,5,6,4,8,8,7,8,8,9,9,4,58,20,10,4,92
+Chișinău,Europa do Leste / Outros,Bálcãs / Leste,5,7.0,0.2,5,5,5,4,7,7,9,7,6,8,5,4,34,11,6,3,54
+Baku,Europa do Leste / Outros,Bálcãs / Leste,7,8.0,1.5,8,5,7,4,8,5,8,9,9,9,6,4,37,12,6,3,58
+Tbilisi,Europa do Leste / Outros,Bálcãs / Leste,8,8.6,1.2,9,5,8,4,5,8,8,7,6,8,8,4,61,21,10,4,96
+Yerevan,Europa do Leste / Outros,Bálcãs / Leste,7,8.1,0.8,6,5,7,4,6,8,7,6,6,6,8,4,59,20,10,4,93

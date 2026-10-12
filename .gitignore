@@ -1,0 +1,14 @@
+# Python / Ambientes Virtuais
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Configurações de preferências locais e cache
+data/user_preferences.json
+.streamlit/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
